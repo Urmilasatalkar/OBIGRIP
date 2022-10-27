@@ -1,0 +1,78 @@
+body {
+    background-color: rgba(0, 255, 0, 0.2);
+    margin: 0 20%;
+}
+
+#title{
+    text-align: center;
+    text-shadow: 6px 6px 10px black;
+    font-size: 2cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#img-div h3{
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+    font-size: 30px;
+    color: brown;
+    font-family: monospace;
+    font-weight: 100;
+}
+#img-caption {
+    font-size: 16px;
+    font-style: italic;
+}
+img {
+    display: block;
+    /* margin: 0 10%; */
+    width: 80%;
+    margin: 0 10%;
+}
+
+div#tribute-info {
+    background-color: rgba(0, 0, 0, 0.2);
+    box-shadow: 20px 20px 15px gray;
+    padding: 5px 10px;
+    margin-top: 20px;
+    font-family:serif;
+}
+
+h1{
+    text-shadow: 5px 5px 10px black;
+    font-size: 30px;
+}
+#tribute-info ul{
+    font-size:18px;
+    font-display: 10px;
+}
+#tribute-info h4{
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 10px brown;
+    color: brown;
+    font-style: oblique;
+}
+#tribute-info h2{
+    font-size: 20px;
+    text-shadow: 2px 2px 10px black;
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+}
+#tribute-info p{
+    font-style: oblique;
+    padding:5px 10px;
+    font-size: 20px;
+}
+small{
+    font-size: 20px;
+   padding-top: 100px;
+    font-style:oblique ;
+}
+#tribute-info h3{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 10px black;
+    font-style: oblique;
+}
