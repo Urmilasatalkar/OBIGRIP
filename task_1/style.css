@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color:cadetblue;
+    justify-content: center;
+}
+ body h1{
+  font-size: 70px;
+  font-family:cursive;
+  color: brown;
+}
+
+.button {
+    padding: 24px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 66px;
+    color: black;
+    background-color:gray;
+    font-size: 0.7cm;
+}
+.button:hover{
+    background-color: white;
+}
+
+.row {
+    margin: 8px 0;
+}
+.row1 button{
+    margin: 8px 0;
+    width: 140px;
+    padding: 24px;
+}
+
+.row input {
+    width: 291px;
+    font-size: 23px;
+    padding: 10px 0px;
+    margin: 0;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.row input:hover{
+    background-color: gray;
+}
